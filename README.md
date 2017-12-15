@@ -17,3 +17,7 @@ and optionnal :
 
 ``composer require sec-checker``
 
+If you clone this repository, don't forget to use :
+
+``composer install``
+
